@@ -82,7 +82,7 @@ text-align: center;
   background-image: url(${imgdesktop})
 }
 `
-
+/// JSX
 const Main = () => { 
   const [total,setTotal] = useState(0)
   const [valor,setValor] = useState('0')
