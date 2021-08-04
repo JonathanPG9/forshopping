@@ -81,7 +81,7 @@ text-align: center;
 @media (min-width:640px) {
   background-image: url(${imgdesktop})
 }
-`  
+`
 
 const Main = () => { 
   const [total,setTotal] = useState(0)
